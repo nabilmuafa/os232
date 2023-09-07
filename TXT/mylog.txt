@@ -13,3 +13,6 @@ ZCZC W00 30 L10 Assignment #00: Reading more Silberschatz, read GNU/Linux tutori
 ZCZC W01 100 L02 05/09 class
 ZCZC W01 90 L11 Assignment #01: Set up Debian Guest up to installing Debian Packages for OS232
 ZCZC W01 90 L31 VirtualBox: Install Debian/Linux (as a part of Assignment #01)
+ZCZC W01 100 L02 07/09 class
+ZCZC W01 90 L11 Assignment #01: Add/rename username/hostname, configure vimrc/bash aliases, setting up SSH public key
+ZCZC W01 20 L27 SSH, key-gen related: Setting up SSH public key (as a part of Assignment #01)
