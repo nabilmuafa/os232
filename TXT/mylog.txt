@@ -17,3 +17,4 @@ ZCZC W01 100 L02 07/09 class
 ZCZC W01 90 L11 Assignment #01: Add/rename username/hostname, configure vimrc/bash aliases, setting up SSH public key
 ZCZC W01 20 L27 SSH, key-gen related: Setting up SSH public key (as a part of Assignment #01)
 ZCZC W01 30 L11 Assignment #01: Created LINKS/, added some interesting links, added index.md, added myupdate.txt
+ZCZC W01 15 L03 GitHub related: fixing readme.md, index.md so it would look a little bit better
