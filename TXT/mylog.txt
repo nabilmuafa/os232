@@ -18,3 +18,9 @@ ZCZC W01 90 L11 Assignment #01: Add/rename username/hostname, configure vimrc/ba
 ZCZC W01 20 L27 SSH, key-gen related: Setting up SSH public key (as a part of Assignment #01)
 ZCZC W01 30 L11 Assignment #01: Created LINKS/, added some interesting links, added index.md, added myupdate.txt
 ZCZC W01 15 L03 GitHub related: fixing readme.md, index.md so it would look a little bit better
+ZCZC W02 100 L02 12/09 class
+ZCZC W02 100 L02 14/09 class
+ZCZC W02 60 L12 Assignment #02: Update demos, create GPG keys, running scripts, etc
+ZCZC W02 45 L05 Quiz related including studying
+ZCZC W02 15 L12 Assignment #02: Added myrank.txt and more links, re-run myscript.sh
+ZCZC W02 10 L01 SCELE related: Wrote a question regarding the week's assignment on General forum
