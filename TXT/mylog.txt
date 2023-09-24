@@ -26,3 +26,9 @@ ZCZC W02 15 L12 Assignment #02: Added myrank.txt and more links, re-run myscript
 ZCZC W02 10 L01 SCELE related: Wrote a question regarding the week's assignment on General forum
 ZCZC W02 45 L09 Assignment in general: Completed Pop Quiz W02-2: Scele Scrap
 ZCZC W02 30 L64 Helping a friend (OS related problem): Guiding a friend in W02 assignment
+ZCZC W03 100 L02 19/09 class
+ZCZC W03 100 L02 21/09 class
+ZCZC W03 30 L05 Quiz related including studying
+ZCZC W03 65 L13 Assignment #03: Update demos, add virtual disk, running scripts, etc
+ZCZC W03 20 L13 Pop Quiz W03-2: Created tarball for nabilmuafa.c and Makefile, rerun myscript.sh
+ZCZC W03 10 L06 Googling for Makefile tutorials

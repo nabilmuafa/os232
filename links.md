@@ -19,5 +19,8 @@ An example of how improper code development can lead to exploitations and uninte
 [First Stack Buffer Overflow to modify Variable - bin 0x0C](https://www.youtube.com/watch?v=T03idxny9jE) ---
 Another example of how careless coding can lead to security bypasses. In this video, a C code is vulnerable to a buffer overflow exploit, where the attacker can overflow the stack with values the attacker inputs, hence allowing unintended uses such as getting the server shell.
 
+[How SSH key Works ?](https://www.youtube.com/watch?v=y2SWzw9D4RA) ---
+A video explaining how SSH key works. Most people only generate the keys according to the instructions and there are very few people that understands exactly why it works and why it's needed. This video explains it.
 
-
+[sudo rm -rf /* - What Happens?](https://www.youtube.com/watch?v=sonKLFb_-d0) ---
+A video demonstrating the careless(???) use of the `rm -rf` command in Linux, especially in elevated access. Pretty much summarizes why you should never run this command.
