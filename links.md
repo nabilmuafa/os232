@@ -24,3 +24,9 @@ A video explaining how SSH key works. Most people only generate the keys accordi
 
 [sudo rm -rf /* - What Happens?](https://www.youtube.com/watch?v=sonKLFb_-d0) ---
 A video demonstrating the careless(???) use of the `rm -rf` command in Linux, especially in elevated access. Pretty much summarizes why you should never run this command.
+
+[Ranking Linux Distros 2023: Linux Distribution Tier List](https://www.youtube.com/watch?v=oLN3hddLgF4) ---
+A subjective tier list of Linux distributions. If you're interested in knowing (or trying out) other Linux distributions than Debian, maybe you'll find this video interesting.
+
+[Arch Linux speedrun - 1:14 (boot%)](https://www.youtube.com/watch?v=8utpbbdj0LQ) ---
+Just for fun. A video of someone [speedrunning](https://en.wikipedia.org/wiki/Speedrunning) setting up Arch Linux guest from scratch to booting up.
