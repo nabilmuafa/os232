@@ -36,3 +36,6 @@ ZCZC W04 100 L02 25/09 class
 ZCZC W04 15 L01 SCELE related: Wrote a question regarding the virtual disks on General forum
 ZCZC W04 60 L14 Assignment #04: Update demos, compile TLPI, scripts, etc. (including Pop Quiz)
 ZCZC W04 5 L06 Googling for interesting videos about Linux
+ZCZC W05 10 L06 Googling how to export both public and private GPG keys
+ZCZC W05 105 L15 Assignment #05: Update demos, pop quizzes (including the memory one), run scripts, etc.
+

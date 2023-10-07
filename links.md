@@ -30,3 +30,6 @@ A subjective tier list of Linux distributions. If you're interested in knowing (
 
 [Arch Linux speedrun - 1:14 (boot%)](https://www.youtube.com/watch?v=8utpbbdj0LQ) ---
 Just for fun. A video of someone [speedrunning](https://en.wikipedia.org/wiki/Speedrunning) setting up Arch Linux guest from scratch to booting up.
+
+[Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA&pp=ygUYdW5kZXJzdGFuZGluZyBjIHBvaW50ZXJz) ---
+An introduction for pointers in C language. Good for those trying to understand pointers in C.
