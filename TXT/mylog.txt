@@ -38,4 +38,4 @@ ZCZC W04 60 L14 Assignment #04: Update demos, compile TLPI, scripts, etc. (inclu
 ZCZC W04 5 L06 Googling for interesting videos about Linux
 ZCZC W05 10 L06 Googling how to export both public and private GPG keys
 ZCZC W05 105 L15 Assignment #05: Update demos, pop quizzes (including the memory one), run scripts, etc.
-
+ZCZC W05 10 L15 Assignment #05: Fixing memory print order
