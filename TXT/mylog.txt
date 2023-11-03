@@ -39,3 +39,7 @@ ZCZC W04 5 L06 Googling for interesting videos about Linux
 ZCZC W05 10 L06 Googling how to export both public and private GPG keys
 ZCZC W05 105 L15 Assignment #05: Update demos, pop quizzes (including the memory one), run scripts, etc.
 ZCZC W05 10 L15 Assignment #05: Fixing memory print order
+ZCZC W06 100 L02 31/10 class
+ZCZC W06 30 L05 Quiz related including studying
+ZCZC W06 15 L16 Assignment #06: Update and try demos
+ZCZC W06 70 L16 Assignment #06: Run scripts and did the assignment (including pop quizzes)

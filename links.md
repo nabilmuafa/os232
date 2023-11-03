@@ -33,3 +33,6 @@ Just for fun. A video of someone [speedrunning](https://en.wikipedia.org/wiki/Sp
 
 [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA&pp=ygUYdW5kZXJzdGFuZGluZyBjIHBvaW50ZXJz) ---
 An introduction for pointers in C language. Good for those trying to understand pointers in C.
+
+[Visualization of a fork call in C](https://youtu.be/QD9YKSg3wCc?si=PZRtjlQ2VZ7FC1x2) ---
+A visual guide to understand how forks work in C. Not exactly a "visual guide", but a step-by-step explanation on the process behind a fork call.
