@@ -36,3 +36,6 @@ An introduction for pointers in C language. Good for those trying to understand 
 
 [Visualization of a fork call in C](https://youtu.be/QD9YKSg3wCc?si=PZRtjlQ2VZ7FC1x2) ---
 A visual guide to understand how forks work in C. Not exactly a "visual guide", but a step-by-step explanation on the process behind a fork call.
+
+[What is a Thread | Concept of Process and Thread | Operating System](https://www.youtube.com/watch?v=RDr7xCunN80) ---
+A video explaining the concept of process and thread in operating systems. Good video for those trying to learn.
