@@ -46,3 +46,5 @@ ZCZC W06 70 L16 Assignment #06: Run scripts and did the assignment (including po
 ZCZC W07 100 L02 07/11 class
 ZCZC W07 100 L02 09/11 class
 ZCZC W07 60 L17 Assignment #07: Try demos, do pop quiz, run scripts and did the assignment
+ZCZC W08 255 L18 Assignment #08: Try demos, run scripts, do LFS chapter 1-5
+ZCZC W08 10 L18 Assignment #08: Edit log, update, ranks, etc. Run W08 script.

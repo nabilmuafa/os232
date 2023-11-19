@@ -39,3 +39,6 @@ A visual guide to understand how forks work in C. Not exactly a "visual guide", 
 
 [What is a Thread | Concept of Process and Thread | Operating System](https://www.youtube.com/watch?v=RDr7xCunN80) ---
 A video explaining the concept of process and thread in operating systems. Good video for those trying to learn.
+
+[Kernotex's LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+Kernotex's playlist of Linux From Scratch tutorials. Very useful for those unsure of the steps just by reading the LFS book.
